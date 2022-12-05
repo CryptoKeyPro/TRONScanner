@@ -1,4 +1,6 @@
 # Binaries for programs and plugins
+cmd/tsserver/tsserver
+cmd/tscli/tscli
 *.exe
 *.exe~
 *.dll
